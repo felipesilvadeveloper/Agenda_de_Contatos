@@ -2,6 +2,9 @@
 
 Este é um projeto simples de cadastro de contatos, onde os usuários podem inserir informações de nome e telefone, e visualizá-las em uma tabela dinâmica na mesma página. Ele é composto por HTML, CSS e JavaScript, e visa fornecer uma maneira fácil e rápida de armazenar e visualizar contatos.
 
+Você pode acessar o projeto ao vivo através do seguinte link:  
+[Agenda de Contatos](https://agenda-de-contatos-zeta-gilt.vercel.app/)
+
 ## Funcionalidades
 
 - **Formulário de Cadastro**: Permite inserir o nome e o telefone de um contato.
